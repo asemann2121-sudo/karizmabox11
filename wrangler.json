@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "karizmabox11",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "4ca07fe2-a522-43b8-ac28-1994df246c05",
+      "database_name": "karizma11"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
